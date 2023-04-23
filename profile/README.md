@@ -10,7 +10,7 @@
 
 ## Contributors
 
-<div align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndviet&theme=vue" align="center" /></div>
+<div align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vietnd96&theme=vue" align="center" /></div>
 
 <div align="left">
 <a href="https://github.com/ndviet" target="_blank">
